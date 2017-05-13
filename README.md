@@ -15,4 +15,4 @@ npm install
 npm run dev
 ```
 
-Now you can access the app by navigating to http://localhost:3000/.
+Now you can access the app by navigating to http://localhost:3000
